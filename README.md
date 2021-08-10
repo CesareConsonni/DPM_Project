@@ -7,7 +7,7 @@ The scopes of the homeworks are to apply, in a simplified context, some of the p
 
 ![image](https://user-images.githubusercontent.com/37812489/128361043-b2aeae23-db8a-4582-84e1-e9c458cfe2c6.png)
 
-The assignements of the homeworks, respectively to their numeration, were:
+The assignements of the homeworks, respectively, were:
 
 1. Write a Project Charter for an own made-up project
 2. Create a WBS for the above-mentioned project at managerial level

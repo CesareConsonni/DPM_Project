@@ -3,7 +3,7 @@
 
 [Link to the course page](http://emanueledellavalle.org/teaching/digital-project-management-2020-21/)
 
-The scope of the homeworks are to apply, in a simplified context, some of the points presented in class developing project related capabilities.
+The scopes of the homeworks are to apply, in a simplified context, some of the points presented in class developing project related capabilities.
 
 ![image](https://user-images.githubusercontent.com/37812489/128361043-b2aeae23-db8a-4582-84e1-e9c458cfe2c6.png)
 

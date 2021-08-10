@@ -12,5 +12,5 @@ The assignements of the homeworks, respectively, were:
 1. Write a Project Charter for an own made-up project
 2. Create a WBS for the above-mentioned project at managerial level
 3. Write 3-5 scrum stories concerning the Project Charter using Jira software suite.
-4. Simulate a couple of scrum sprint reporting their burndown charts.
+4. Simulate a couple of scrum sprints reporting their burndown charts.
 
